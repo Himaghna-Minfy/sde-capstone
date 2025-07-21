@@ -1,18 +1,18 @@
-# í¼Œ GalaxyDocs - Real-Time Collaborative Editor
+# GalaxyDocs - Real-Time Collaborative Editor
 
 A modern, Notion-like collaborative document editor with a stunning galaxy theme.
 
 ## âœ¨ Features
 
-- íº€ Real-time collaborative editing
-- í¼Ÿ Galaxy-themed UI with animations
-- í±¥ Live presence indicators
-- í³ Rich text editing with Tiptap
-- í´„ Auto-save functionality
-- í³± Mobile-responsive design
+- ï¿½ï¿½ï¿½ Real-time collaborative editing
+- ï¿½ï¿½ï¿½ Galaxy-themed UI with animations
+- ï¿½ï¿½ï¿½ Live presence indicators
+- ï¿½ï¿½ï¿½ Rich text editing with Tiptap
+- ï¿½ï¿½ï¿½ Auto-save functionality
+- ï¿½ï¿½ï¿½ Mobile-responsive design
 - âš¡ WebSocket real-time communication
 
-## í»  Tech Stack
+## Tech Stack
 
 ### Frontend
 - React 18 with Vite
@@ -26,7 +26,7 @@ A modern, Notion-like collaborative document editor with a stunning galaxy theme
 - Socket.io
 - In-memory storage (demo)
 
-## íº€ Quick Start
+##  Quick Start
 
 ### Prerequisites
 - Node.js 18+
