@@ -4,12 +4,12 @@ A modern, Notion-like collaborative document editor with a stunning galaxy theme
 
 ## ✨ Features
 
-- ��� Real-time collaborative editing
-- ��� Galaxy-themed UI with animations
-- ��� Live presence indicators
-- ��� Rich text editing with Tiptap
-- ��� Auto-save functionality
-- ��� Mobile-responsive design
+-  Real-time collaborative editing
+-  Galaxy-themed UI with animations
+-  Live presence indicators
+-  Rich text editing with Tiptap
+-  Auto-save functionality
+-  Mobile-responsive design
 - ⚡ WebSocket real-time communication
 
 ## Tech Stack
