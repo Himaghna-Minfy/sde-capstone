@@ -1,0 +1,36 @@
+{
+  "name": "galaxydocs-backend",
+  "version": "1.0.0",
+  "description": "GalaxyDocs Production Backend with Firebase & WebRTC",
+  "main": "src/server.js",
+  "scripts": {
+    "dev": "nodemon src/server.js",
+    "start": "node src/server.js",
+    "test": "jest --detectOpenHandles"
+  },
+  "dependencies": {
+    "express": "^4.18.2",
+    "socket.io": "^4.7.2",
+    "cors": "^2.8.5",
+    "dotenv": "^16.3.1",
+    "helmet": "^7.1.0",
+    "express-rate-limit": "^6.10.0",
+    "jsonwebtoken": "^9.0.2",
+    "bcryptjs": "^2.4.3",
+    "firebase-admin": "^11.11.0",
+    "express-validator": "^7.0.1",
+    "multer": "^1.4.5-lts.1",
+    "uuid": "^9.0.1",
+    "simple-peer": "^9.11.1",
+    "compression": "^1.7.4",
+    "morgan": "^1.10.0"
+  },
+  "devDependencies": {
+    "nodemon": "^3.0.1",
+    "jest": "^29.7.0",
+    "supertest": "^6.3.3"
+  },
+  "engines": {
+    "node": ">=18.0.0"
+  }
+}
