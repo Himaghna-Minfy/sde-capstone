@@ -92,3 +92,5 @@ Endpoint	Method	Description	Request Body / Params	Response
 
 <img width="463" height="529" alt="image" src="https://github.com/user-attachments/assets/21071616-9e1e-4bc5-b5ed-687b13337461" />
 
+<img width="1865" height="815" alt="image" src="https://github.com/user-attachments/assets/9b2b573a-3aa2-46e4-811b-67959fa85d8d" />
+
