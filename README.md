@@ -84,5 +84,11 @@ Endpoint	Method	Description	Request Body / Params	Response
 - /:id/comments	POST	Add comment to a document	{ content, position?, selectedText? }	Created comment
 - /:id/comments	GET	Get all comments on a document	URL param id	List of comments
 
+<img width="1801" height="862" alt="image" src="https://github.com/user-attachments/assets/bcc35c5e-1301-4f1d-9b03-67840eccbddb" />
 
+<img width="1870" height="840" alt="image" src="https://github.com/user-attachments/assets/1c6ddfb5-a70c-43e5-8f3b-3e220fb5e1c0" />
+
+<img width="1881" height="723" alt="image" src="https://github.com/user-attachments/assets/7bbcc12f-7467-4644-972c-be4424faeb2a" />
+
+<img width="463" height="529" alt="image" src="https://github.com/user-attachments/assets/21071616-9e1e-4bc5-b5ed-687b13337461" />
 
